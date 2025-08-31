@@ -1,0 +1,25 @@
+.top-center {
+  text-align: center;
+  padding-top: 20px;
+}
+a:link,a:visited{
+    text-align: center;
+    justify-content: center;
+    background-color: blueviolet;
+    padding: 15px 25px;
+    color: bisque; 
+    display: inline-block;
+    border-radius: 18px;   
+}
+a:hover,a:active{
+    text-align: center;
+    background-color: rgb(54, 203, 214);
+    display: inline-block;
+}
+p{
+    font-family:'Segoe UI';
+    font-size: large;
+    border: solid rgb(141, 5, 84) 5px;
+    border-radius: 8px;
+    margin: 0px 100px;
+}
